@@ -1,0 +1,8 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.decorations.colors": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": true
+}
